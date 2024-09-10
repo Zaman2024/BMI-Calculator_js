@@ -1,2 +1,2 @@
 # BMI-Calculator_js-5
-# javaScript basic project
+# javaScript basic project-07
